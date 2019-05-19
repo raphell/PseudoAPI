@@ -5,11 +5,11 @@ class Database{
 
     private $host = "localhost";
 
-    private $db_name = "testpourdump";
+    private $db_name = "dump";
 
-    private $username = "blblbldump";
+    private $username = "root";
 
-    private $password = "blblbldump";
+    private $password = "";
 
     public $conn;
 
