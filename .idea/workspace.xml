@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5cc80d04-3152-491e-b4ce-86050d3fb2a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/getDataAPI/Communication" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/getDataAPI/CommunicationAjax.php" beforeDir="false" afterPath="$PROJECT_DIR$/getDataAPI/CommunicationAjax.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/getDataAPI/Projets.php" beforeDir="false" afterPath="$PROJECT_DIR$/getDataAPI/Projets.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataAPI/Database_config.php" beforeDir="false" afterPath="$PROJECT_DIR$/dataAPI/Database_config.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,17 +25,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/getDataAPI/Projet.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            <state relative-caret-position="306">
+              <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataAPI/Database.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dataAPI/Database_config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/getDataAPI/Projets.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1122">
-              <caret line="66" column="25" lean-forward="true" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
+            <state relative-caret-position="-102">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -74,6 +90,7 @@
         <option value="$PROJECT_DIR$/getDataAPI/Communication" />
         <option value="$PROJECT_DIR$/getDataAPI/Projets.php" />
         <option value="$PROJECT_DIR$/getDataAPI/CommunicationAjax.php" />
+        <option value="$PROJECT_DIR$/dataAPI/Database_config.php" />
       </list>
     </option>
   </component>
@@ -88,10 +105,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="85" />
-    <option name="y" value="15" />
-    <option name="width" value="1750" />
-    <option name="height" value="980" />
+    <option name="x" value="-8" />
+    <option name="width" value="1618" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -109,7 +125,7 @@
             <path>
               <item name="PseudoAPI" type="b2602c69:ProjectViewProjectNode" />
               <item name="PseudoAPI" type="462c0819:PsiDirectoryNode" />
-              <item name="getDataAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="dataAPI" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -149,12 +165,12 @@
       <workItem from="1558100280390" duration="9157000" />
       <workItem from="1558439551353" duration="63000" />
       <workItem from="1558440316202" duration="7252000" />
-      <workItem from="1558513302459" duration="233000" />
+      <workItem from="1558513302459" duration="1484000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16723000" />
+    <option name="totallyTimeSpent" value="17956000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -185,13 +201,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/getDataAPI/Database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/getDataAPI/Communication">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -207,13 +216,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/getDataAPI/Projet.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/getDataAPI/CommunicationAjax.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -223,8 +225,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/getDataAPI/Projets.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="25" lean-forward="true" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
+        <state relative-caret-position="-102">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getDataAPI/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getDataAPI/Projet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataAPI/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataAPI/Database_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
