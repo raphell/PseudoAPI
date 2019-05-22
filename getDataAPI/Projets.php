@@ -53,6 +53,7 @@ function analyse($results)
         http_response_code(200);
 
         // show products data in json format
+
         $encoded = json_encode($products_arr);
         header('Content-type: application/json');
         return($encoded);

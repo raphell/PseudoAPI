@@ -2,12 +2,16 @@
 
 $d = include "Projets.php";
 
-$q=$_GET["q"];
+$q= $_GET["q"];
 
 // $xmlDoc = new DOMDocument();
 $doc = searchVille($q);
-$jsonDoc = new DOMDocument();
-$jsonDoc -> $d(analyse($doc));
+echo analyse($doc);
+
+
+/*
+$jsonDoc = DOMDocument:: DOM    (analyse($doc)) ;
+
 
 $x=$jsonDoc->getElementsByTagName('Ville');
 
@@ -30,4 +34,5 @@ for ($i=0;$i<$cd->length;$i++) {
     echo("<br>");
   }
 }
+*/
 ?>
